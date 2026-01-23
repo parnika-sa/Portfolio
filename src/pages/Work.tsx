@@ -23,7 +23,7 @@ const githubProjects = [
       "99% data accuracy"
     ],
     tools: ["Python", "Selenium", "APIs", "Google Sheets"],
-    duration: "3 weeks",
+    duration: "4 weeks",
     timeline: "Aug 2024 – Sep 2024",
     status: "Production-ready",
     github: "https://github.com/parnika-sa/Google-Maps-Lead-Scraper-Pro"
